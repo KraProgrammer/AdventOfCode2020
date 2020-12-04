@@ -52,8 +52,6 @@ def solve_puzzle_two(input_array):
 
 
 def parse_input(puzzle):
-    # array = [parse("")
-    #          for line in np.array(puzzle.input_data.splitlines())]
     r = []
     for line in puzzle.input_data.split('\n\n'):
         m = {}
