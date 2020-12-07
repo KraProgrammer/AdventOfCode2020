@@ -15,6 +15,8 @@ My solutions for the AoC 2020 puzzles, written in Python.
 | 3    | [Toboggan Trajectory](https://adventofcode.com/2020/day/3) | **[day3.py](src/day3.py)**  |
 | 4    | [Passport Processing](https://adventofcode.com/2020/day/4) | **[day4.py](src/day4.py)**  |
 | 5    | [Binary Boarding](https://adventofcode.com/2020/day/5)     | **[day5.py](src/day5.py)**  |
+| 6    | [Custom Customs](https://adventofcode.com/2020/day/6)      | **[day6.py](src/day6.py)**  |
+| 7    | [Handy Haversacks](https://adventofcode.com/2020/day/7)    | **[day7.py](src/day7.py)**  |
 
 ## Requirements 
 
