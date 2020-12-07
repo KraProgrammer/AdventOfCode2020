@@ -1,12 +1,16 @@
 # Advent of Code 2020
+
 AoC aka the only way to get up before 8am.
 
 ## Introduction
-[Advent of Code](https://adventofcode.com/2020) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
+
+[Advent of Code](https://adventofcode.com/2020) is an Advent calendar of small programming puzzles for a variety of
+skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest,
+interview prep, company training, university coursework, practice problems, or to challenge each other.
 
 ## Solutions
-My solutions for the AoC 2020 puzzles, written in Python.
 
+My solutions for the AoC 2020 puzzles, written in Python.
 
 | Day  | Title                                                      | Solution                                  |
 |------|------------------------------------------------------------|----------------------------------------------|
@@ -16,9 +20,9 @@ My solutions for the AoC 2020 puzzles, written in Python.
 | 4    | [Passport Processing](https://adventofcode.com/2020/day/4) | **[day4.py](src/day4.py)**  |
 | 5    | [Binary Boarding](https://adventofcode.com/2020/day/5)     | **[day5.py](src/day5.py)**  |
 | 6    | [Custom Customs](https://adventofcode.com/2020/day/6)      | **[day6.py](src/day6.py)**  |
-| 7    | [Handy Haversacks](https://adventofcode.com/2020/day/7)    | **[day7.py](src/day7.py)**  |
+| 7    | [Handy Haversacks](https://adventofcode.com/2020/day/7)    | **[day7-graph.py](src/day7-graph.py)**, [day7.py](src/day7.py)  |
 
-## Requirements 
+## Requirements
 
 - Python 3.7
 - requirements.txt
