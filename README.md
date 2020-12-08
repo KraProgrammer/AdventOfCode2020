@@ -21,6 +21,7 @@ My solutions for the AoC 2020 puzzles, written in Python.
 | 5    | [Binary Boarding](https://adventofcode.com/2020/day/5)     | **[day5.py](src/day5.py)**  |
 | 6    | [Custom Customs](https://adventofcode.com/2020/day/6)      | **[day6.py](src/day6.py)**  |
 | 7    | [Handy Haversacks](https://adventofcode.com/2020/day/7)    | **[day7-graph.py](src/day7-graph.py)**, [day7.py](src/day7.py)  |
+| 8    | [Handheld Halting](https://adventofcode.com/2020/day/8)      | **[day8.py](src/day8.py)**  |
 
 ## Requirements
 
