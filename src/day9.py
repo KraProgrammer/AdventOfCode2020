@@ -25,9 +25,12 @@ def solve_puzzle_two(input_array):
 
     for i in range(len(input_array)):
         for j in range(i + 1, len(input_array)):
-            if sum(input_array[i:j]) == number:
+            curr_sum = sum(input_array[i:j])
+            if curr_sum == number:
                 print(min(input_array[i:j]) + max(input_array[i:j]))
                 return
+            if curr_sum > number:
+                break
 
 
 def parse_input(data):
