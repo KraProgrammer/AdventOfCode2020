@@ -23,6 +23,8 @@ My solutions for the AoC 2020 puzzles, written in Python.
 | 7    | [Handy Haversacks](https://adventofcode.com/2020/day/7)    | **[day7-graph.py](src/day7-graph.py)**, [day7.py](src/day7.py)  |
 | 8    | [Handheld Halting](https://adventofcode.com/2020/day/8)    | **[day8.py](src/day8.py)**  |
 | 9    | [Encoding Error](https://adventofcode.com/2020/day/9)      | **[day9.py](src/day9.py)**  |
+| 10   | [Adapter Array](https://adventofcode.com/2020/day/10)      | **[day10.py](src/day10.py)**  |
+
 
 ## Requirements
 
