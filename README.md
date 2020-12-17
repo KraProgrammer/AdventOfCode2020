@@ -26,11 +26,11 @@ My solutions for the AoC 2020 puzzles, written in Python.
 | 10   | [Adapter Array](https://adventofcode.com/2020/day/10)                 | **[day10.py](src/day10.py)** ⭐⭐  |
 | 11   | [Seating System](https://adventofcode.com/2020/day/11)                | **[day11.py](src/day11.py)** ⭐⭐  |
 | 12   | [Rain Risk](https://adventofcode.com/2020/day/12)                     | **[day12.py](src/day12.py)** ⭐⭐  |
-| 13   | [Shuttle Search](https://adventofcode.com/2020/day/13)                | **[day13.py](solutions/aoc2020/day13.py)** ⭐⭐ |
-| 14   | [Docking Data](https://adventofcode.com/2020/day/14)                  | **[day14.py](solutions/aoc2020/day14.py)** ⭐⭐ |
-| 15   | [Rambunctious Recitation](https://adventofcode.com/2020/day/15)       | **[day15.py](solutions/aoc2020/day15.py)** ⭐⭐ |
-| 16   | [Ticket Translation](https://adventofcode.com/2020/day/16)            | **[day16.py](solutions/aoc2020/day16.py)** ⭐⭐ |
-| 17   | [Conway Cubes](https://adventofcode.com/2020/day/17)                  | **[day17.py](solutions/aoc2020/day17.py)** ⭐⭐ |
+| 13   | [Shuttle Search](https://adventofcode.com/2020/day/13)                | **[day13.py](src/day13.py)** ⭐⭐ |
+| 14   | [Docking Data](https://adventofcode.com/2020/day/14)                  | **[day14.py](src/day14.py)** ⭐⭐ |
+| 15   | [Rambunctious Recitation](https://adventofcode.com/2020/day/15)       | **[day15.py](src/day15.py)** ⭐⭐ |
+| 16   | [Ticket Translation](https://adventofcode.com/2020/day/16)            | **[day16.py](src/day16.py)** ⭐⭐ |
+| 17   | [Conway Cubes](https://adventofcode.com/2020/day/17)                  | **[day17.py](src/day17.py)** ⭐⭐ |
 
 ## Requirements
 
