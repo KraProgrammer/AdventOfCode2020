@@ -31,6 +31,8 @@ My solutions for the AoC 2020 puzzles, written in Python.
 | 15   | [Rambunctious Recitation](https://adventofcode.com/2020/day/15)       | **[day15.py](src/day15.py)** ⭐⭐ |
 | 16   | [Ticket Translation](https://adventofcode.com/2020/day/16)            | **[day16.py](src/day16.py)** ⭐⭐ |
 | 17   | [Conway Cubes](https://adventofcode.com/2020/day/17)                  | **[day17.py](src/day17.py)** ⭐⭐ |
+| 18   | [Operation Order](https://adventofcode.com/2020/day/18)               | **[day18.py](src/day18.py)** ⭐⭐ |
+
 
 ## Requirements
 
