@@ -32,6 +32,8 @@ My solutions for the AoC 2020 puzzles, written in Python.
 | 16   | [Ticket Translation](https://adventofcode.com/2020/day/16)            | **[day16.py](src/day16.py)** ⭐⭐ |
 | 17   | [Conway Cubes](https://adventofcode.com/2020/day/17)                  | **[day17.py](src/day17.py)** ⭐⭐ |
 | 18   | [Operation Order](https://adventofcode.com/2020/day/18)               | **[day18.py](src/day18.py)** ⭐⭐ |
+| 19   | [Monster Messages](https://adventofcode.com/2020/day/19)              | **[day19.py](src/day19.py)** ⭐⭐ |
+
 
 
 ## Requirements
