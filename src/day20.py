@@ -109,7 +109,7 @@ def solve_puzzle_two(tiles):
         else:
             big_grid = np.append(big_grid, big_col, axis=1)
 
-    print(count_monsters(big_grid))
+    print("part 2: " + str(count_monsters(big_grid)))
 
 
 def is_monster(v, di, dj):
@@ -324,13 +324,6 @@ Tile 3079:
 ..#.###...
 ..#.......
 ..#.###..."""
-
-# parse single line:        data.splitlines() ||  np.array(data.splitlines())
-# parse integer:            np.fromstring(puzzle.input_data, dtype=int, sep='\n')
-# parse with regex:         [parse("{low:d}-{high:d} {char:l}: {pass:w}", line) for line in data.split("\n")]
-# parse string as chars:    np.array(lmap(list, data.split("\n")))
-# parse and store to dict:  [dict([pp.split(":") for pp in re.split(r"\s", line)]) for line in data.split("\n\n")]
-# parse and store to set:   [lmap(set, group.split("\n")) for group in data.split("\n\n")]
 
 
 if __name__ == '__main__':
