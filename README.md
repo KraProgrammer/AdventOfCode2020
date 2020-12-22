@@ -35,6 +35,7 @@ My solutions for the AoC 2020 puzzles, written in Python.
 | 19   | [Monster Messages](https://adventofcode.com/2020/day/19)              | **[day19.py](src/day19.py)** ⭐⭐ |
 | 20   | [Jurassic Jigsaw](https://adventofcode.com/2020/day/20)               | **[day20.py](src/day20.py)** ⭐⭐ |
 | 21   | [Allergen Assessment](https://adventofcode.com/2020/day/21)           | **[day21.py](src/day21.py)** ⭐⭐ |
+| 22   | [Crab Combat](https://adventofcode.com/2020/day/22)                   | **[day22.py](src/day22.py)** ⭐⭐ |
 
 
 
