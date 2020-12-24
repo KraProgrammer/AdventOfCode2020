@@ -37,9 +37,7 @@ My solutions for the AoC 2020 puzzles, written in Python.
 | 21   | [Allergen Assessment](https://adventofcode.com/2020/day/21)           | **[day21.py](src/day21.py)** ⭐⭐ |
 | 22   | [Crab Combat](https://adventofcode.com/2020/day/22)                   | **[day22.py](src/day22.py)** ⭐⭐ |
 | 23   | [Crab Cups](https://adventofcode.com/2020/day/23)                     | **[day23.py](src/day23.py)** ⭐⭐ |
-
-
-
+| 24   | [Lobby Layout](https://adventofcode.com/2020/day/24)                  | **[day24.py](src/day24.py)** ⭐⭐ |
 
 ## Requirements
 
